@@ -1,0 +1,8 @@
+#exclusiones de proyecto excluir entornoV, Variables de Entorno
+venv/ 
+.env
+
+__pycache__/
+*.py[cod]
+
+.pytest_cache
